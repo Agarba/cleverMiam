@@ -47,4 +47,18 @@ restos:
             longitude : 2.326123
       avoir: oui
       limite dans le temps: non
+      
+    - nom : "Delices du 9ème"
+      adresse: "63 Rue de Clichy 75009 Paris"
+      ticketResto : 1
+      tags: [asiatique, bobun]
+      distance: 3
+      sur_place: true
+      a_emporter: true
+      connnu_pour : [menu pas cher]
+      coordonnee:
+            latitude : 48.881692
+            longitude : 2.328355
+      avoir: oui
+      limite dans le temps: non
 
