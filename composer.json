@@ -1,0 +1,12 @@
+{
+    "name": "cleverage/miam",
+    "require": {
+        "symfony/yaml": "~2.6"
+    },
+    "authors": [
+        {
+            "name": "CleverAge",
+            "email": "all@clever-age.com"
+        }
+    ]
+}

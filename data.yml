@@ -1,0 +1,50 @@
+#unité de DISTANCE de 1 à 4
+#   1: juste en bas
+#   2: pas loin
+#   3: un peu de marche
+#   4: il faut en vouloir
+
+
+restos:
+    - nom: Vitamine
+      adresse: 20 rue de Bucarest - 75008 Paris
+      ticketResto : 2
+      tags: [salade, sandwich, plat du jour]
+      distance: 2
+      sur_place: true
+      a_emporter: true
+      connnu_pour : [Son couscous le jeudi]
+      coordonnee:
+            latitude : 48.880683
+            longitude : 2.3252
+      avoir: oui
+      limite dans le temps: non
+
+    - nom : Pho 20
+      adresse: 70 Rue de Clichy 75009 Paris
+      ticketResto : 1
+      tags: [vietnam]
+      distance: 3
+      sur_place: true
+      a_emporter: true
+      connnu_pour : [son Bobun, son Pho Special]
+      coordonnee:
+            latitude : 48.882151
+            longitude : 2.328225
+      avoir: oui
+      limite dans le temps: non
+
+    - nom : Simply Market
+      adresse: 7-9 Boulevard des Batignolles 75008 Paris
+      ticketResto : 1
+      tags: [supermarche]
+      distance: 2
+      sur_place: true
+      a_emporter: false
+      connnu_pour : [la qualite de ses produits]
+      coordonnee:
+            latitude : 48.883134
+            longitude : 2.326123
+      avoir: oui
+      limite dans le temps: non
+
